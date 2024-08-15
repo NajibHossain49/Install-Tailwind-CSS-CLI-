@@ -158,6 +158,14 @@ pre {
     font-style: oblique;
 }
 
+.important-note {
+    font-style: italic;
+    color: #6a5acd;
+    font-weight: bold;
+    
+}
+    
+
 a {
     color: darkviolet;
     text-decoration: none;
@@ -226,25 +234,24 @@ a:hover {
 .credit {
     text-align: center;
     margin-top: 20px;
-  }
-  
-  .credit p {
+}
+
+.credit p {
     margin: 0;
     font-style: italic;
-  }
-  
-  .social-icon {
+}
+
+.social-icon {
     display: inline-block;
     margin: 0 10px;
     text-decoration: none;
-  }
-  
-  .social-icon img {
+}
+
+.social-icon img {
     vertical-align: middle;
     transition: opacity 0.3s ease;
-  }
-  
-  .social-icon:hover img {
+}
+
+.social-icon:hover img {
     opacity: 0.7;
-  }
-  
+}
