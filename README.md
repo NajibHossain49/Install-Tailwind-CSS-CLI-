@@ -1,5 +1,5 @@
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
-<span style="font-size: 24px; font-weight: bold;">Proper and Clear Way to Install Tailwind CSS CLI 🚀</span>
+# Proper and Clear Way to Install Tailwind CSS CLI 🚀
 <p>This guide provides step-by-step instructions to install and configure Tailwind CSS using its CLI effectively.</p>
 <span style="font-size: 20px; font-weight: bold;">Installation Steps 🛠️</span>
 <ol style="padding-left: 20px;">
